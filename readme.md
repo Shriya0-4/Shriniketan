@@ -1,0 +1,5 @@
+ShriniKetan is a web application built to simplify the management of monthly expenses and administrative tasks for the Shriniketan apartment. it has a secure login system, it offers residents a seamless way to monitor shared expenses, stay updated on meetings, and keep track of incharge responsibilities!
+
+ShriniKetan enables residents to log in and easily view total monthly expenses and their individual share. The Maintenance section allows users to add new expenses and view detailed breakdowns. The website also manages incharge rotations, showing the current and upcoming incharge. In the Meetings section, residents can access upcoming meeting details and past overviews. Additionally, a Resident Contacts page simplifies communication between neighbors.
+
+The frontend of ShriniKetan is built using ReactJS and styled with Tailwind CSS, delivering a smooth and responsive user experience. The backend is powered by Node.js and Express, ensuring scalability and efficiency. For data storage, MongoDB provides a flexible and reliable NoSQL solution.
